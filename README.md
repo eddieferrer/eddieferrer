@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I like rock climbing, baking bread and snowboarding.**
 <br/>
+  
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddieferrer&layout=compact&hide=html" alt="eddieferrer" /></p>
 
-<p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddieferrer&layout=compact&hide=html" alt="eddieferrer" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddieferrer&show_icons=true" alt="eddieferrer" /></p>
-</p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=eddieferrer&show_icons=true" alt="eddieferrer" /></p>
 
 <br/>
 <br/>
