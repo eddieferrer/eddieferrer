@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h3 align="center">A Front End Developer living in Portland.</h3>
 <br/>
 
-- 💻  I’m currently working at - [Kiva](kiva.org). Kiva is a non-profit that empowers underserved people to achieve their dreams by crowdfunding loans and unlocking capital. Our front end code is open source. [Kiva - UI](https://github.com/kiva/ui).
+- 💻  &nbsp; I’m currently working at - [Kiva](kiva.org). Kiva is a non-profit that empowers underserved people to achieve their dreams by crowdfunding loans and unlocking capital. Our front end code is open source. [Kiva - UI](https://github.com/kiva/ui).
 
-- 🧗  I have a side project - [SizeSquirrel](sizesquirrel.com). SizeSquirrel crowd-sources climbing shoe sizing data to find users their size for shoes they don't have. It also finds deals on climbing shoes and recommends climbing shoes. It's also open source: [SizeSquirrel - Open Source](https://github.com/eddieferrer/sizesquirrel-open).
+- 🧗  &nbsp; I have a side project - [SizeSquirrel](sizesquirrel.com). SizeSquirrel crowd-sources climbing shoe sizing data to find users their size for shoes they don't have. It also finds deals on climbing shoes and recommends climbing shoes. It's also open source: [SizeSquirrel - Open Source](https://github.com/eddieferrer/sizesquirrel-open).
 
-- 👨‍💻  You can find out more about me at: [http://eferrer.info](http://eferrer.info).
+- 👨‍💻  &nbsp; You can find out more about me at: [http://eferrer.info](http://eferrer.info).
 
 - ⚡ Fun facts: **I like rock climbing, snowboarding, and baking bread. My favorite band is Tool. When I was a child I used to play competitive chess.**
 <br/>
