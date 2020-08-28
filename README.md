@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻  &nbsp; You can find out more about me at: [http://eferrer.info](http://eferrer.info).
 
-- ⚡ Fun facts: **I like rock climbing, snowboarding, and baking bread. My favorite band is Tool. When I was a child I used to play competitive chess.**
+- ⚡ &nbsp; Fun facts: **I like rock climbing, snowboarding, and baking bread. My favorite band is Tool. When I was a child I used to play competitive chess.**
 <br/>
   
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddieferrer&layout=compact&hide=html" alt="eddieferrer" /></p>
