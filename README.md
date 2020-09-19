@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🧗  &nbsp; I have a side project - [SizeSquirrel](https://sizesquirrel.com). SizeSquirrel crowd-sources climbing shoe sizing data to find users their size for shoes they don't have. It also finds deals on climbing shoes and recommends climbing shoes. It's also open source: [SizeSquirrel - Open Source](https://github.com/eddieferrer/sizesquirrel-open).
 
-- 👨‍💻  &nbsp; You can find out more about me at: [http://eferrer.info](http://eferrer.info).
+- 👨‍💻  &nbsp; You can find this same info at: [http://eferrer.info](http://eferrer.info).
 
 - ⚡ &nbsp; Fun facts: **I like rock climbing, snowboarding, and baking bread. My favorite band is Tool. When I was a child I used to play competitive chess.**
 <br/>
