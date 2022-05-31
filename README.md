@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Eddie Ferrer</h1>
-<h3 align="center">A Front End Developer living in Portland.</h3>
+<h3 align="center">A Front End Developer living in Colorado.</h3>
 <br/>
 
 - 💻  &nbsp; I’m currently working at - [Kiva](https://kiva.org). Kiva is a non-profit that empowers underserved people to achieve their dreams by crowdfunding loans and unlocking capital. Our front end code is open source. [Kiva - UI](https://github.com/kiva/ui).
